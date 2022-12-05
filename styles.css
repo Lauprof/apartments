@@ -98,7 +98,7 @@ h1{
 @media screen and (max-width: 768px){
 
 .footer ol>li{
-	padding: 8px;
+	padding: 5px;
 
 }
 
@@ -111,5 +111,9 @@ h1{
 h1{
 	font-size: 17px;
 	text-shadow: 1.3px 1.2px white;
+}
+.cols{
+	max-width: 100%;
+	float: none;
 }
 }
